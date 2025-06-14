@@ -1,0 +1,107 @@
+#folders
+Library/
+obj/
+Temp/
+UnityGenerated/
+Assets/AssetStoreTools*
+
+# Unity生成的文件
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity缓存和日志
+sysinfo.txt
+*.stackdump
+*.log
+
+# Unity构建文件
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Unity Plastic SCM
+.plastic/
+
+# 特定版本控制文件夹
+.vs/
+.gradle/
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+
+# Unity URP/HDRP生成的文件
+/[Aa]ssets/XR/
+/[Aa]ssets/XR.meta
+
+# Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# Unity个人设置
+/[Uu]ser[Ss]ettings/
+
+# Unity Hub
+.UnityHub/
+
+# Unity轻量级渲染管线
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/
+
+# Unity Addressables
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.json*
+/[Aa]ssets/StreamingAssets/aa/*
+
+# Unity Cloud Build
+/cloudbuild-manifest.json
+
+# Unity Test Runner
+/[Aa]ssets/InitTestScene*.unity
+/[Aa]ssets/InitTestScene*.unity.meta
+
+# Crashlytics generated file
+crashlytics-build.properties
+
+# OS生成的文件
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Windows
+Desktop.ini
+
+# Linux
+*~
+
+# 临时文件
+*.tmp
+*.temp
